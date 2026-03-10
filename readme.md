@@ -172,6 +172,8 @@ ggplot(dataset, aes(x = status, y = anomaly_score, fill = status)) +
 ## **Dashboard Final**
 ![Dashboard Power BI](dashboard.png)
 
-Projeto desenvolvido como parte do programa de formação em Business Intelligence e Data Science da Data Science Academy.
+---
+*Projeto desenvolvido como parte do programa de formação em Business Intelligence da Data Science Academy.*
+
 
 
